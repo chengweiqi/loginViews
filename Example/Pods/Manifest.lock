@@ -1,0 +1,16 @@
+PODS:
+  - LoginView (0.1.0)
+
+DEPENDENCIES:
+  - LoginView (from `../`)
+
+EXTERNAL SOURCES:
+  LoginView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LoginView: b0c7a075378e2b953c981e47f2364ecee9c9d3d7
+
+PODFILE CHECKSUM: 3951f17b22a89ed194c2c98aa596b87616633e10
+
+COCOAPODS: 1.7.2

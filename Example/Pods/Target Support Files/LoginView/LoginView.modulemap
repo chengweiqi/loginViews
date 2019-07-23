@@ -1,0 +1,6 @@
+framework module LoginView {
+  umbrella header "LoginView-umbrella.h"
+
+  export *
+  module * { export * }
+}

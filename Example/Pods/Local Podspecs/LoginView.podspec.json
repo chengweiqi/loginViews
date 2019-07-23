@@ -1,0 +1,22 @@
+{
+  "name": "LoginView",
+  "version": "0.1.0",
+  "summary": "A short description of LoginView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/程佳兵/LoginView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "程佳兵": "chengjiabing@chaotoo.com"
+  },
+  "source": {
+    "git": "https://github.com/程佳兵/LoginView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LoginView/Classes/**/*"
+}
