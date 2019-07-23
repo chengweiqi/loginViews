@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'LoginView_Example' do
+  pod 'LoginView', :path => '../'
+
+  target 'LoginView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
